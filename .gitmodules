@@ -1,3 +1,6 @@
 [submodule "whisper-writer"]
 	path = whisper-writer
 	url = git@github.com:sunnywlad/whisper-writer-fr-streaming.git
+[submodule "codex-claude-bridge"]
+	path = codex-claude-bridge
+	url = git@github.com:sunnywlad/codex-claude-bridge.git
