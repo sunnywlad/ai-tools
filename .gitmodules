@@ -4,6 +4,6 @@
 [submodule "codex-claude-bridge"]
 	path = codex-claude-bridge
 	url = git@github.com:sunnywlad/codex-claude-bridge.git
-[submodule "claude-session-budget"]
-	path = claude-session-budget
-	url = git@github.com:sunnywlad/claude-session-budget.git
+[submodule "claude-tokens_in_sessions"]
+	path = claude-tokens_in_sessions
+	url = git@github.com:sunnywlad/claude-tokens_in_sessions.git
