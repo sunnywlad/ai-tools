@@ -13,6 +13,8 @@ projets. Chaque dossier contient un outil et son propre README.
 - [whisper-writer](whisper-writer/) : dictée vocale locale en français, en
   streaming, sur un portable sans GPU (moteur Parakeet, vocabulaire favorisé).
   Dépôt séparé, inclus en submodule.
+- [worksheet-mod](worksheet-mod/) : un volet de décision à côté du chat, avec
+  un champ de réponse par question ouverte, que Claude relit d'un seul appel.
 - [claude-tokens_in_sessions](claude-tokens_in_sessions/) : un plafond de
   consommation par session Claude Code sur la fenêtre de 5 h (`count:25` en
   début de prompt), avec rappels, segment de status line, avertissement avant
@@ -32,6 +34,8 @@ holds one tool and its own README.
 - [whisper-writer](whisper-writer/): local French voice dictation, streaming,
   on a laptop with no GPU (Parakeet engine, favoured vocabulary). Separate
   repository, included as a submodule.
+- [worksheet-mod](worksheet-mod/): a decision pane beside the chat, one answer
+  field per open question, read back by Claude in a single call.
 - [claude-tokens_in_sessions](claude-tokens_in_sessions/): a per-session
   consumption cap on the Claude Code 5-hour window (`count:25` at the start of
   a prompt), with reminders, a status line segment, a warning before the

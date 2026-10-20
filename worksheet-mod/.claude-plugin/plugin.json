@@ -1,0 +1,1 @@
+{ "name": "worksheet", "version": "0.1.0", "description": "Decision worksheet pane: status chips, one answer field per open line, answers kept in the store", "types": "./types/index.d.ts" }
