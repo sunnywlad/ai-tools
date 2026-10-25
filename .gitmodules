@@ -3,7 +3,7 @@
 	url = git@github.com:sunnywlad/whisper-writer-fr-streaming.git
 [submodule "codex-claude-bridge"]
 	path = codex-claude-bridge
-	url = git@github.com:sunnywlad/codex-claude-bridge.git
+	url = git@github.com:sunnywlad/codex-bridge.git
 [submodule "claude-tokens_in_sessions"]
 	path = claude-tokens_in_sessions
 	url = git@github.com:sunnywlad/claude-tokens_in_sessions.git
